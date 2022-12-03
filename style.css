@@ -13,7 +13,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     margin: 90px 60px 30px 60px;
-    border-radius: 10px;    
+    border-radius: 10px; 
 }
 .card {
     flex: 0 1 300px;
@@ -76,4 +76,5 @@ body {
     background-color: hsl(179, 100%, 13%); 
     color: hsl(0, 0%, 95%); 
 }
-
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
